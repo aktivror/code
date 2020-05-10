@@ -1,0 +1,7 @@
+{
+    "name": "Aktivror",
+    "short_name": "Aktivror",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
